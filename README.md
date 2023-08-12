@@ -1,6 +1,6 @@
 ### Hi there 👋, welcome to my world
 
-- 🔭 I’m currently upskilling in Cloud Computing and learning in depth the Kubernetes & the JVM
+- 🔭 I’m currently upskilling in Cloud Computing and learning in depth Kubernetes & the JVM
 - 🌱 I have a lot of interest in system design and software architecture
 - 🤔 I’m having fun with data stuctures and clean code
 - 💬 Ask me about my experience in software engeneering
